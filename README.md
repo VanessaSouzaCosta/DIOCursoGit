@@ -1,6 +1,9 @@
-# DIO Curso Git
+# DIO Curso Git/GitHub
 
 Repositório criado para armazenar e exemplificar o material de estudos de cursos e bootcamps realizados na plataforma DIO.
+
+### 🎯 Curso da DIO:
+- [Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos)
 
 ### 📚 Documentações:
 - [GIT](https://git-scm.com/docs/git/pt_BR)
